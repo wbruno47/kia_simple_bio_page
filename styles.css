@@ -87,11 +87,11 @@ html{
 }
 .contact-info label{
   display: inline-block; 
-  min-width: 55px; 
+  width: 55px; 
 }
 .contact-info input{
   display: inline-block;
-  width: 40%;
+  width: 50%;
   margin-bottom: 5px;
 }
 .contact-block{
@@ -100,7 +100,7 @@ html{
 .text-input textarea{
   padding: 5px;
   display: inline-block;
-  width: 100%;
+  width: 71%;
   margin-top: 5px;
 }
 .contact input[type=text],.contact input[type=email]{
